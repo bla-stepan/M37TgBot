@@ -6,11 +6,11 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.4.1</version>
+        <version>3.0.0</version>
         <relativePath/>
     </parent>
 
-    <groupId>ru.skillfactorydemo</groupId>
+    <groupId>stepan</groupId>
     <artifactId>tgbot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>tgbot</name>
@@ -42,7 +42,7 @@
         <dependency>
             <groupId>com.github.xabgesagtx</groupId>
             <artifactId>telegram-spring-boot-starter</artifactId>
-            <version>0.24</version>
+            <version>0.26</version>
         </dependency>
         <dependency>
             <groupId>org.apache.commons</groupId>
